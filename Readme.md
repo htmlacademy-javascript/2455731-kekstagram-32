@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Irina  Blatsky](https://up.htmlacademy.ru/javascript/32/user/2455731).
-* Наставник: `Неизвестно`.
+* Наставник: `Денис Лопатин`(https://htmlacademy.ru/profile/denislopatin).
 
 ---
 
