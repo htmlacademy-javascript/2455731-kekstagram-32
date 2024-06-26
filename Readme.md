@@ -2,7 +2,7 @@
 
 * Студент: [Irina  Blatsky](https://up.htmlacademy.ru/javascript/32/user/2455731).
 * Наставник: `Денис Лопатин`(https://htmlacademy.ru/profile/denislopatin).
-
+Наставник: `Денис Лопатин`(https://htmlacademy.ru/profile/denislopatin).
 
 
 _Не удаляйте и не изменяйте самовольно файлы и папки:_
